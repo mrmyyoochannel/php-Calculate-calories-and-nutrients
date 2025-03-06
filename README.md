@@ -1,14 +1,14 @@
 # php-Calculate-calories-and-nutrients
-php﻿ ﻿Calculate calories and nutrients
-<br>
-<a>------------------------------------------------</a>
-<br>
-I use This in website
-<br>
-https://getbootstrap.com/
-<br>
-https://sweetalert2.github.io/recipe-gallery/
-<br>
-<a>------------------------------------------------</a>
-<br>
-[myprofile](https://myyoomi.carrd.co/)
+
+PHP Calculate calories and nutrients
+
+------------------------------------------------
+
+I use this in the website:
+
+- [Bootstrap](https://getbootstrap.com/)
+- [SweetAlert2](https://sweetalert2.github.io/recipe-gallery/)
+
+------------------------------------------------
+
+For more information, check out [my profile](https://myyoomi.carrd.co/).
